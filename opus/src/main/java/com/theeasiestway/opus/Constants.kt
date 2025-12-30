@@ -17,8 +17,11 @@ object Constants {
             fun _8000() = SampleRate(8000)
             fun _12000() = SampleRate(12000)
             fun _16000() = SampleRate(16000)
+            fun _22100() = SampleRate(22100)
             fun _24000() = SampleRate(24000)
+            fun _44100() = SampleRate(44100)
             fun _48000() = SampleRate(48000)
+            fun _96000() = SampleRate(96000)
         }
     }
 
